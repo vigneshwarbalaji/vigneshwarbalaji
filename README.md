@@ -12,3 +12,13 @@
     <img title="🔥 My stats" alt="vigneshwarbalaji's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshwarbalaji&theme=chartreuse-dark&hide_border=true"/>
   </a>
 </p>
+
+<hr/>
+
+### 📊 Github stats
+
+## GitHub Profile Stats
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="vigneshwarbalaji's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=vigneshwarbalaji&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=000000&title_color=37F717FF&icon_color=F8D866" height="192px"/></a>
+</p>
