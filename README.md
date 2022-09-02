@@ -8,5 +8,8 @@
 </p>
 
 <p align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vigneshwarbalaji&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
+  <a href="https://github.com/vigneshwarbalaji/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vigneshwarbalaji's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshwarbalaji&theme=chartreuse-dark&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
