@@ -33,4 +33,4 @@
 
 <hr/>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="vigneshwarbalaji's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=vigneshwarbalaji&bg_color=000000&color=F8D866&line=37F717FF&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/vigneshwarbalaji/github-readme-activity-graph"><img alt="vigneshwarbalaji's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=vigneshwarbalaji&bg_color=000000&color=F8D866&line=37F717FF&point=FFFFFF&hide_border=true" /></a>
